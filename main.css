@@ -1,0 +1,23 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: 'Avenir';
+}
+
+.page-container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: center;
+    padding: 25px 0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #333;
+}
+
+.top-container {
+    background-color: #F1F3F5;
+    padding: 25px 0;
+}
